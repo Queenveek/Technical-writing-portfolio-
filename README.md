@@ -12,7 +12,6 @@ This repo contains all my technical writeups and contributions to different proj
 <!-- Badges -->
 <p>
   <a href="https://github.com/Queenveek"><img src="https://img.shields.io/github/followers/Queen?style=social" alt="GitHub followers"></a>
-  <img src="https://img.shields.io/badge/Location-Lagos%2C%20Africa-009688?style=flat&logo=google-maps&logoColor=white" alt="Location">
   <a href="https://x.com/Blockchain_vee"><img src="https://img.shields.io/badge/X-@Blockchain_vee-1DA1F2?style=flat&logo=x&logoColor=pink" alt="X"></a>
 </p>
 
