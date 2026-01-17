@@ -31,7 +31,7 @@ Currently exploring **MPC**, **Zero-Knowledge proofs**, confidential compute, an
 - Hybrid privacy systems (MPC + ZK + FHE)
 
 ### 📚 Popular content I’ve written
-- [MPC vs ZK: When to Use What (Practical Guide 2026)](https://github.com/Queen/awesome-privacy-guides#readme)  
+- [MPC vs ZK: When to Use What (Practical Guide)](https://medium.com/@vickysun207/mpc-vs-zk-when-to-use-what-540908a1b8ab)  
   A clear breakdown of when to choose MPC or ZK — and why they’re not interchangeable
 <div align="center">
    
