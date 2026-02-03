@@ -15,6 +15,8 @@ This repo contains all my technical writeups and contributions to different proj
   <a href="https://x.com/Blockchain_vee"><img src="https://img.shields.io/badge/X-@Blockchain_vee-1DA1F2?style=flat&logo=x&logoColor=pink" alt="X"></a>
 </p>
 
+<h1 align="center">Show some ❤ by <img src="https://imgur.com/o7ncZFp.jpg" height=25px width=25px> this repository</h1>
+
 </div>
 
 <!-- Hero / Intro -->
